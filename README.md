@@ -33,3 +33,5 @@ I've been learning information study program. Burapha University, Chonburi Thail
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                     </a></p>### Badges<a href="https://github.com/naetaupson" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naetaupson&langs_count=10&title_color=ec4899&text_color=a855f7&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                    
+                
